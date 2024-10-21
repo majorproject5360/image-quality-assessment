@@ -19,7 +19,7 @@ This project provides an image quality comparison system with a frontend built u
 
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/majorproject5360/image-quality-assessment.git
 cd major-project/streamlit-website/image-quality-assessment
 ```
 ml_model.py file contains python code which needs to be converted to .keras format, it can be achieved by running below code mentioned at end of the file:
